@@ -1,1 +1,0 @@
-# sylostat-smart-tool
